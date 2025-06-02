@@ -1,4 +1,4 @@
-# Olá! Sou a Taynara 👩‍💻
+# Olá! Sou a Taynara Francine. 
 
 Desenvolvedora backend com foco em automações, APIs REST e integrações entre sistemas como Bitrix24, n8n e PostgreSQL. Sou apaixonada por criar soluções simples para problemas complexos — especialmente quando envolvem automação de processos repetitivos.
 
