@@ -1,37 +1,30 @@
-# 👋 Olá! Eu sou a Taynara
+# Olá! Sou a Taynara 👩‍💻
 
-Sou desenvolvedora apaixonada por tecnologia e automações, focada em criar soluções eficientes com foco em APIs, automações e integrações. Tenho experiência com backend, ferramentas de automação e integração entre sistemas como Bitrix24, n8n, e bancos de dados como PostgreSQL.
-
----
-
-## 💡 Tecnologias & Ferramentas que uso:
-
-- 📦 Node.js, Express
-- 🛠️ n8n, Mindee API, Bitrix24 API
-- 🧠 Automação com APIs REST
-- 🗃️ PostgreSQL
-- 💻 HTML, CSS, JavaScript
-- 🐧 Linux (Rocky Linux, Ubuntu), VPS, Hostinger
-- ☁️ Git, GitHub, Shell Script
+Desenvolvedora backend com foco em automações, APIs REST e integrações entre sistemas como Bitrix24, n8n e PostgreSQL. Sou apaixonada por criar soluções simples para problemas complexos — especialmente quando envolvem automação de processos repetitivos.
 
 ---
 
----
+## 🔧 Stack principal
 
-## ✨ Projetos em Destaque
-
-- 🔄 **Integração Bitrix24 + n8n**  
-  Automatização de leitura de PDFs com QR Code e geração de Pix.  
-  → _Automação completa com cache local, envio via WhatsApp._
-
-- 📦 **API para geração de boletos com Pix**  
-  API leve para criação de cobranças com suporte a Copia e Cola.
-
-- 🧰 **Ferramentas de backend e scripts utilitários**  
-  Scripts para automação, envio de dados e gerenciamento de tarefas.
+- Node.js, Express, Shell Script
+- Bitrix24 API, n8n, Mindee API
+- PostgreSQL, SQLite
+- HTML, CSS, JavaScript
+- VPS (Ubuntu, Rocky Linux)
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projetos em Destaque
 
-![Taynara GitHub stats](https://github-readme-stats.vercel.app/api?username=gitTaynara4x4&show_icons=true&theme=radical)
+### Integração Bitrix24 + n8n
+> Automação de leitura de PDFs com QR Code, geração de cobranças Pix e envio via WhatsApp. Solução robusta com cache local e logs para rastreabilidade.
+
+### API de geração de boletos Pix
+> API leve que permite gerar cobranças Pix com suporte a “copia e cola” e notificações via Webhook.
+
+---
+
+## 📈 GitHub Insights
+
+<!-- Gráfico de linguagens -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitTaynara4x4&layout=compact&theme=tokyonight)
