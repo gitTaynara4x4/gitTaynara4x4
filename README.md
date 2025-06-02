@@ -23,14 +23,6 @@ Desenvolvedora backend com foco em automações, APIs REST e integrações entre
 > API leve que permite gerar cobranças Pix com suporte a “copia e cola” e notificações via Webhook.
 
 ---
-
-## 📈 GitHub Insights
-
-<!-- Gráfico de linguagens -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitTaynara4x4&layout=compact&theme=tokyonight)
-![Taynara GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitTaynara4x4&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=gitTaynara4x4&theme=tokyonight)
-![Snake animation](https://github.com/gitTaynara4x4/gitTaynara4x4/blob/output/github-contribution-grid-snake.svg)
 <!-- Estatísticas -->
 ![Taynara GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitTaynara4x4&show_icons=true&theme=tokyonight)
 
